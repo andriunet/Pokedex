@@ -1,0 +1,1 @@
+../../../Target Support Files/JellyGif/JellyGif-umbrella.h

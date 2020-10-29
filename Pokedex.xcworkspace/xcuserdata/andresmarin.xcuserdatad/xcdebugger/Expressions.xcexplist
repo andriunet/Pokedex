@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HomeViewController.prepare(for:sender:):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pokemonCell.imagenPokemon.imageView.image!.averageColor">
+            </PersistentString>
+            <PersistentString
+               value = "detalleViewController.viewColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HomeViewController.cargarPokemones():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.Pokemones">
+            </PersistentString>
+            <PersistentString
+               value = "[JsonPokemones].deserialize(from: value)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailViewController.cargarDetallePokemon(urlDetalle:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Pokedex.baseURLImagenOfficial + &quot;\(detalle.id!).png&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HomeViewController.viewDidLoad():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pokemon.results">
+            </PersistentString>
+            <PersistentString
+               value = "self.pokemones![0].self">
+            </PersistentString>
+            <PersistentString
+               value = "pokemon.results!">
+            </PersistentString>
+            <PersistentString
+               value = "pokemon.results![10]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.tableView(_:cellForRowAt:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stats[indexPath.row].base_stat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.tableView(_:cellForRowAt:):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pokemon[indexPath.row].url">
+            </PersistentString>
+            <PersistentString
+               value = "pokemon[indexPath.row].url!.components(separatedBy: &quot;/&quot;).filter({!$0.isEmpty})[5]">
+            </PersistentString>
+            <PersistentString
+               value = "idPokemon.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
