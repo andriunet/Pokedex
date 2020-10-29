@@ -1,15 +1,12 @@
-# Pokedex
+# Pokedex Valid
 
-Pokedex usando el API de pokeapi.co y con ayuda de las imagenes de www.pkparaiso.com
+Pokedex para Valid usando el API de pokeapi.co y con ayuda de las imagenes de www.pkparaiso.com
 
-Home
-<img src="https://github.com/andriunet/Pokedex/blob/main/Home.png" />
+<img src="https://github.com/andriunet/Pokedex/blob/main/Home.png" width="50%" height="50%"/>
 
-Stats
-<img src="https://github.com/andriunet/Pokedex/blob/main/Detalle1.png" />
+<img src="https://github.com/andriunet/Pokedex/blob/main/Detalle1.png" width="50%" height="50%"/>
 
-Sprites
-<img src="https://github.com/andriunet/Pokedex/blob/main/Detalle3.gif" />
+<img src="https://github.com/andriunet/Pokedex/blob/main/Detalle3.gif" width="50%" height="50%"/>
 
 
 ### Instalación 🔧
