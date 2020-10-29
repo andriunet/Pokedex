@@ -2,8 +2,8 @@
 
 Pokedex para Valid usando el API de pokeapi.co y con ayuda de las imagenes de www.pkparaiso.com
 
-Permite hacer busqueda del pokemon en el home.
-En el detalle muestra los stats del pokemon y la imagen animada del frente y la espalda.
+Permite hacer busqueda del pokemon en el home. <br>
+En el detalle muestra las estadisticas y la imagen animada del frente y la espalda del pokemon seleccionado. <br>
 Las imagenes se guarda en cache local, con animación en la descarga.
 
 <table>
