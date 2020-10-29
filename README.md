@@ -8,6 +8,16 @@ Pokedex para Valid usando el API de pokeapi.co y con ayuda de las imagenes de ww
 
 <img src="https://github.com/andriunet/Pokedex/blob/main/Detalle3.gif" width="30%" height="30%"/>
 
+<table>
+<tbody>
+<tr>
+<td><img src="https://github.com/andriunet/Pokedex/blob/main/Home.png"  /></td>
+<td><img src="https://github.com/andriunet/Pokedex/blob/main/Detalle1.png"/></td>
+<td><img src="https://github.com/andriunet/Pokedex/blob/main/Detalle3.gif"/></td>
+</tr>
+</tbody>
+</table>
+
 
 ### Instalación 🔧
 
