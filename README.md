@@ -2,12 +2,6 @@
 
 Pokedex para Valid usando el API de pokeapi.co y con ayuda de las imagenes de www.pkparaiso.com
 
-<img src="https://github.com/andriunet/Pokedex/blob/main/Home.png" width="30%" height="30%"/>
-
-<img src="https://github.com/andriunet/Pokedex/blob/main/Detalle1.png" width="30%" height="30%"/>
-
-<img src="https://github.com/andriunet/Pokedex/blob/main/Detalle3.gif" width="30%" height="30%"/>
-
 <table>
 <tbody>
 <tr>
