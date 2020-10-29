@@ -41,3 +41,5 @@ $ abrir Pokedex.xcworkspace
 [LinearProgressView](https://github.com/BiAtoms/LinearProgressView)
 [JellyGif](https://github.com/TaLinh/JellyGif)
 
+Email: andresmarin@me.com
+
