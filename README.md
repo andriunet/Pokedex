@@ -1,6 +1,6 @@
-# Pokedex Valid
+# Pokedex
 
-Pokedex para Valid usando el API de pokeapi.co y con ayuda de las imagenes de www.pkparaiso.com
+Pokedex usando el API de pokeapi.co y con ayuda de las imagenes de www.pkparaiso.com
 
 Permite hacer busqueda del pokemon en el inicio. <br>
 En el detalle muestra las estadisticas y la imagen animada del frente y la espalda del pokemon seleccionado. <br>
